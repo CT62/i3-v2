@@ -9,3 +9,4 @@ sudo pacman -S --noconfirm picom
 sudo pacman -S --noconfirm xorg-xrandr
 sudo pacman -S --noconfirm ttf-jetbrains-mono-nerd
 sudo pacman -S --noconfirm ttf-nerd-fonts-symbols
+sudo pacman -S alacritty
